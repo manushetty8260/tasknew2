@@ -23,4 +23,4 @@ Styled a profile page using CSS box model concepts such as margin, padding, bord
 Created a visually stunning, professional profile page with proper spacing, modern aesthetics, and interactive elements. Fully responsive and optimized for all devices.
 
 ## Live Demo
-View the live page: https://manushetty8260.github.io/task2/
+View the live page: https://manushetty8260.github.io/tasknew2/
